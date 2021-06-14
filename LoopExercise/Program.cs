@@ -84,10 +84,11 @@ namespace LoopExercise
                 Console.WriteLine($"{i}");
             }
             #endregion
-
-
-
-
+            //Once finished comment the above code out -----
+            /* for (int i = 0; i < 5; i++)
+             * {
+             *     Console.WriteLine($"{i}");
+             * }   */
 
         }
     }
